@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Moveo/static/css/main.6be62e25.chunk.css",
-    "main.js": "/Moveo/static/js/main.6f3dfb47.chunk.js",
-    "main.js.map": "/Moveo/static/js/main.6f3dfb47.chunk.js.map",
+    "main.js": "/Moveo/static/js/main.ede3acbd.chunk.js",
+    "main.js.map": "/Moveo/static/js/main.ede3acbd.chunk.js.map",
     "runtime-main.js": "/Moveo/static/js/runtime-main.2c4d062a.js",
     "runtime-main.js.map": "/Moveo/static/js/runtime-main.2c4d062a.js.map",
     "static/js/2.7bf9d524.chunk.js": "/Moveo/static/js/2.7bf9d524.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.2c4d062a.js",
     "static/js/2.7bf9d524.chunk.js",
     "static/css/main.6be62e25.chunk.css",
-    "static/js/main.6f3dfb47.chunk.js"
+    "static/js/main.ede3acbd.chunk.js"
   ]
 }
